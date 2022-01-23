@@ -1,0 +1,8 @@
+\begin{eqnarray*}
+H_n(x) &=& (-1)^n \exp(x^2)  \frac{d^n}{dx^n} \exp(-x^2)
+\end{eqnarray*}
+
+\begin{eqnarray*}
+&& H_0(x) = 1, H_1(x)=2x \\
+&& H_n(x) = 2 x H_{n-1} (x) - 2 (n-1) H_{n-2} (x) ~~~~(n \geq 2)
+\end{eqnarray*}
