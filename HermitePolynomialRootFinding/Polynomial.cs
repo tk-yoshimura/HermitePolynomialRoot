@@ -1,6 +1,4 @@
 ﻿using MultiPrecision;
-using System.Collections.Generic;
-using System.Linq;
 
 namespace HermitePolynomialRootFinding {
     internal class Polynomial<N> where N : struct, IConstant {
